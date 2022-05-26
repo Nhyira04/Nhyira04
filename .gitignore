@@ -1,0 +1,6 @@
+# to ignore files as they are sensitive
+
+*.terraform/*
+*.terraform.tfstate*.
+*.terraform.tfstate.backup*.
+*.terraform.lock.hcl*
